@@ -1,2 +1,3 @@
-# DBA-Study-Materials
-Study material for SQL Server DBA 
+# DBA-Study-Materials with lots of new tools
+Study material for SQL Server DBA. 
+
